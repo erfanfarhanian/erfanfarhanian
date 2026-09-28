@@ -37,8 +37,8 @@ I'm a **.NET Backend & Web Developer** focused on building reliable web applicat
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erfanfarhanian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Erfan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanfarhanian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=erfanfarhanian&show_icons=true&theme=tokyonight&hide_border=true" alt="Erfan's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=erfanfarhanian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
