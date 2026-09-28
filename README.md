@@ -45,4 +45,4 @@ I'm a **.NET Backend & Web Developer** focused on building reliable web applicat
 
 ### 📬 Connect with Me
 - **LinkedIn**: [linkedin.com/in/erfanfarhanian](https://linkedin.com/in/erfan-farhanian)
-- **Email**: [your-email@example.com](mailto:erfanfarhanian@gmail.com)
+- **Email**: [erfanfarhanian@gmail.com](mailto:erfanfarhanian@gmail.com)
