@@ -44,5 +44,6 @@ I'm a **.NET Backend & Web Developer** focused on building reliable web applicat
 ---
 
 ### 📬 Connect with Me
-- **LinkedIn**: [linkedin.com/in/erfanfarhanian](https://linkedin.com/in/erfan-farhanian)
-- **Email**: [erfanfarhanian@gmail.com](mailto:erfanfarhanian@gmail.com)
+- 🌐 **Portfolio & Resume**: [erfanfarhanian.ir](https://erfanfarhanian.ir)
+- 💼 **LinkedIn**: [linkedin.com/in/erfan-farhanian](https://linkedin.com/in/erfan-farhanian)
+- ✉️ **Email**: [erfanfarhanian@gmail.com](mailto:erfanfarhanian@gmail.com)
