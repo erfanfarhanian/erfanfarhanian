@@ -6,7 +6,6 @@ I'm a **.NET Backend & Web Developer** focused on building reliable web applicat
 
 ### 🚀 What I Do
 - 💻 Developing web applications and RESTful APIs using **ASP.NET Core (Web API & MVC)**
-- 🏛️ Structuring projects with **Layered Architecture (N-Tier)** and clean design patterns
 - 🗄️ Designing databases and handling data persistence with **PostgreSQL**, **SQL Server**, and **EF Core**
 - 🔐 Implementing authentication and authorization mechanisms (**JWT** & **ASP.NET Core Identity**)
 - 🧪 Integrating API documentation and testing with **Swagger** and **Postman**
